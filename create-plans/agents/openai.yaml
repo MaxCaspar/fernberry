@@ -1,0 +1,4 @@
+version: 1
+display_name: Create Plans
+short_description: Build executable solo-dev project plans, roadmaps, and handoffs for Codex.
+default_prompt: Help me create or update a project plan hierarchy with BRIEF, ROADMAP, PLAN, and SUMMARY artifacts.
