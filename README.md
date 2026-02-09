@@ -26,5 +26,11 @@ Videos that inspired this approach:
 - Clone this repo to your Codex skills path (for example `~/.codex/skills`).
 - Keep it updated with `git pull`.
 
+If you want to install directly in Codex, copy‑paste this command:
+
+```
+/skill-installer Install the following skills that are placed here https://github.com/MaxCaspar/fernberry and enable the / command
+```
+
 ## License
 This project is licensed under the MIT License. It includes the original MIT notice from the upstream author and additional attribution for downstream adaptations. See `LICENSE`.
