@@ -12,8 +12,10 @@ I built Fernberry by leaning hard on two ideas from Taches: meta‑prompting and
 
 If you’re curious about the mechanics, start with the `create-skill-skill` module, which includes a Claude‑to‑Codex conversion workflow: `create-skill-skill/workflows/convert-to-codex-skill.md`.
 
+This adaptation is deliberately formatted for Codex. I converted the original Claude‑style formatting, instructions, and logic into Codex‑native patterns so it works cleanly in Codex workflows. Please feel free to fork this repo, or even start by running the `create-skill-skill` module and build from there.
+
 Videos that inspired this approach:
-- Skills building skills: https://www.youtube.com/watch?v=LJI7FafIDg4
+- Skills-ception: https://www.youtube.com/watch?v=LJI7FafIDg4
 - Metaprompting: https://www.youtube.com/watch?v=8_7Sq6Vu0S4
 
 ## What is included
